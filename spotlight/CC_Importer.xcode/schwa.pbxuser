@@ -1,0 +1,1740 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 = {
+		activeBuildStyle = 014CEA3F0018CDD111CA2923;
+		activeExecutable = 45F9531B08319C400073B07B;
+		activeTarget = 8D57630D048677EA00EA77CD;
+		addToTargets = (
+			8D57630D048677EA00EA77CD,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 45796102083160E500A923A6;
+		executables = (
+			45F9531B08319C400073B07B,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					574,
+					300,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					571,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					684,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					120,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					624,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					504,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 138924872;
+			PBXWorkspaceStateSaveDate = 138924872;
+		};
+		perUserProjectItems = {
+			45119FAB084404F000D34CC6 = 45119FAB084404F000D34CC6;
+			4534590108469ED7008D3E94 = 4534590108469ED7008D3E94;
+			458F2CC60833E6AD00CB6B11 = 458F2CC60833E6AD00CB6B11;
+			458F2CCB0833E6AD00CB6B11 = 458F2CCB0833E6AD00CB6B11;
+			458F2CD60833E82700CB6B11 = 458F2CD60833E82700CB6B11;
+			458F2CDC0833E82700CB6B11 = 458F2CDC0833E82700CB6B11;
+			458F2CFC0833E90600CB6B11 = 458F2CFC0833E90600CB6B11;
+			458F2D3E0833EC0300CB6B11 = 458F2D3E0833EC0300CB6B11;
+			458F2D420833EC0300CB6B11 = 458F2D420833EC0300CB6B11;
+			458F2D430833EC0300CB6B11 = 458F2D430833EC0300CB6B11;
+			458F2DC20833EDB400CB6B11 = 458F2DC20833EDB400CB6B11;
+			458F2DC40833EDB400CB6B11 = 458F2DC40833EDB400CB6B11;
+			458F2E320833F04C00CB6B11 = 458F2E320833F04C00CB6B11;
+			458F2E380833F04C00CB6B11 = 458F2E380833F04C00CB6B11;
+			458F2E970833F66B00CB6B11 = 458F2E970833F66B00CB6B11;
+			458F2E9F0833F66B00CB6B11 = 458F2E9F0833F66B00CB6B11;
+			458F2EA20833F66B00CB6B11 = 458F2EA20833F66B00CB6B11;
+			458F2ED20833F7B800CB6B11 = 458F2ED20833F7B800CB6B11;
+			458F2EFD0833F92A00CB6B11 = 458F2EFD0833F92A00CB6B11;
+			458F2F1E0833FA0200CB6B11 = 458F2F1E0833FA0200CB6B11;
+			458F2F1F0833FA0200CB6B11 = 458F2F1F0833FA0200CB6B11;
+			458F2F220833FA0200CB6B11 = 458F2F220833FA0200CB6B11;
+			458F2F6B0833FBE700CB6B11 = 458F2F6B0833FBE700CB6B11;
+			458F2FD00833FE3D00CB6B11 = 458F2FD00833FE3D00CB6B11;
+			458F2FD20833FE3D00CB6B11 = 458F2FD20833FE3D00CB6B11;
+			458F2FF50834001500CB6B11 = 458F2FF50834001500CB6B11;
+			458F30430834051C00CB6B11 = 458F30430834051C00CB6B11;
+			458F3064083406A800CB6B11 = 458F3064083406A800CB6B11;
+			458F3066083406A800CB6B11 = 458F3066083406A800CB6B11;
+			458F314C0834233D00CB6B11 = 458F314C0834233D00CB6B11;
+			458F314D0834233D00CB6B11 = 458F314D0834233D00CB6B11;
+			458F31500834233D00CB6B11 = 458F31500834233D00CB6B11;
+			459279A308478862005D51F9 = 459279A308478862005D51F9;
+			459279A408478862005D51F9 = 459279A408478862005D51F9;
+			45BC8E1608357EF500333919 = 45BC8E1608357EF500333919;
+			45BC8E1A08357EF500333919 = 45BC8E1A08357EF500333919;
+			45BC8E1B08357EF500333919 = 45BC8E1B08357EF500333919;
+			45BC8E1C08357EF500333919 = 45BC8E1C08357EF500333919;
+			45BC8E1D08357EF500333919 = 45BC8E1D08357EF500333919;
+			45BC8E1F08357EF500333919 = 45BC8E1F08357EF500333919;
+			45BC8E2008357EF500333919 = 45BC8E2008357EF500333919;
+			45BC8E2108357EF500333919 = 45BC8E2108357EF500333919;
+			45BC8E2208357EF500333919 = 45BC8E2208357EF500333919;
+			45BC8E2308357EF500333919 = 45BC8E2308357EF500333919;
+			45BC8E2508357EF500333919 = 45BC8E2508357EF500333919;
+			45BC8E2608357EF500333919 = 45BC8E2608357EF500333919;
+			45BC8E3808357EF500333919 = 45BC8E3808357EF500333919;
+			45BC8E3A08357EF500333919 = 45BC8E3A08357EF500333919;
+			45BC8E4608357EF500333919 = 45BC8E4608357EF500333919;
+			45C9991D0846099800A9055D = 45C9991D0846099800A9055D;
+			45C999EC084615DA00A9055D = 45C999EC084615DA00A9055D;
+			45C999EE084615DA00A9055D = 45C999EE084615DA00A9055D;
+			45C999F3084615DA00A9055D = 45C999F3084615DA00A9055D;
+			45C99B33084615F300A9055D = 45C99B33084615F300A9055D;
+			45C99B470846166300A9055D = 45C99B470846166300A9055D;
+			45C99B54084616CC00A9055D = 45C99B54084616CC00A9055D;
+			45C99B55084616CC00A9055D = 45C99B55084616CC00A9055D;
+			45D534BC083532990039C245 = 45D534BC083532990039C245;
+			45D534BD083532990039C245 = 45D534BD083532990039C245;
+			45D7EFC90847D3890081FAA9 = 45D7EFC90847D3890081FAA9;
+			45D7EFCB0847D3890081FAA9 = 45D7EFCB0847D3890081FAA9;
+			45D7EFCF0847D39D0081FAA9 = 45D7EFCF0847D39D0081FAA9;
+			45D7EFE10847D4120081FAA9 = 45D7EFE10847D4120081FAA9;
+			45D7EFE20847D45B0081FAA9 = 45D7EFE20847D45B0081FAA9;
+			45D7EFF00847D4640081FAA9 = 45D7EFF00847D4640081FAA9;
+			45D7EFF10847D4640081FAA9 = 45D7EFF10847D4640081FAA9;
+			45DD4D550838FDCF00DFF6AF = 45DD4D550838FDCF00DFF6AF;
+			45EB68AD08456F72003CD158 = 45EB68AD08456F72003CD158;
+			45F03AD20833D0C400CF8BA6 = 45F03AD20833D0C400CF8BA6;
+			45F03AD40833D0C400CF8BA6 = 45F03AD40833D0C400CF8BA6;
+			45F03B1D0833D2F300CF8BA6 = 45F03B1D0833D2F300CF8BA6;
+			45F03B4D0833D4A400CF8BA6 = 45F03B4D0833D4A400CF8BA6;
+			45F03B510833D4A400CF8BA6 = 45F03B510833D4A400CF8BA6;
+			45F03B6E0833D54800CF8BA6 = 45F03B6E0833D54800CF8BA6;
+			45F03B8C0833D9A800CF8BA6 = 45F03B8C0833D9A800CF8BA6;
+			45F03B8D0833D9A800CF8BA6 = 45F03B8D0833D9A800CF8BA6;
+			45F03B930833D9A800CF8BA6 = 45F03B930833D9A800CF8BA6;
+			45F03B940833D9A800CF8BA6 = 45F03B940833D9A800CF8BA6;
+		};
+		sourceControlManager = 45796101083160E500A923A6;
+		userBuildSettings = {
+		};
+	};
+	45119FAB084404F000D34CC6 = {
+		fRef = 45967FF30832BF890009C12F;
+		isa = PBXTextBookmark;
+		name = "GetMetadataForFile.m: 1";
+		rLen = 1581;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2127;
+		vrLoc = 0;
+	};
+	4534590108469ED7008D3E94 = {
+		fRef = 45967FEE0832BF890009C12F;
+		isa = PBXTextBookmark;
+		name = "CMetadataImporter.m: 90";
+		rLen = 0;
+		rLoc = 3784;
+		rType = 0;
+		vrLen = 901;
+		vrLoc = 2946;
+	};
+	45796101083160E500A923A6 = {
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 1;
+		isa = PBXSourceControlManager;
+		scmConfiguration = {
+		};
+		scmType = scm.subversion;
+	};
+	45796102083160E500A923A6 = {
+		indexTemplatePath = "";
+		isa = PBXCodeSenseManager;
+	};
+	458F2CC20833E6AB00CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = pythonrun.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/pythonrun.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2CC60833E6AD00CB6B11 = {
+		fRef = 459680470832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = Python;
+		rLen = 6;
+		rLoc = 1091;
+		rType = 0;
+		vrLen = 514;
+		vrLoc = 0;
+	};
+	458F2CCB0833E6AD00CB6B11 = {
+		fRef = 459680470832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = Python;
+		rLen = 6;
+		rLoc = 1091;
+		rType = 0;
+		vrLen = 514;
+		vrLoc = 0;
+	};
+	458F2CD60833E82700CB6B11 = {
+		fRef = 458F2CC20833E6AB00CB6B11;
+		isa = PBXTextBookmark;
+		name = "PyAPI_FUNC(void) Py_SetPythonHome(char *);";
+		rLen = 43;
+		rLoc = 515;
+		rType = 0;
+		vrLen = 937;
+		vrLoc = 0;
+	};
+	458F2CDC0833E82700CB6B11 = {
+		fRef = 458F2CC20833E6AB00CB6B11;
+		isa = PBXTextBookmark;
+		name = "PyAPI_FUNC(void) Py_SetPythonHome(char *);";
+		rLen = 43;
+		rLoc = 515;
+		rType = 0;
+		vrLen = 937;
+		vrLoc = 0;
+	};
+	458F2CFC0833E90600CB6B11 = {
+		fRef = 459680440832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSArray_PythonExtensions.m: 38";
+		rLen = 0;
+		rLoc = 1842;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 445;
+	};
+	458F2D2F0833EB9600CB6B11 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	458F2D300833EB9600CB6B11 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 1596}}";
+			sepNavSelRange = "{105, 9}";
+			sepNavVisRect = "{{0, 0}, {920, 480}}";
+		};
+	};
+	458F2D3E0833EC0300CB6B11 = {
+		fRef = 459680430832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSArray_PythonExtensions.h: 1";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	458F2D420833EC0300CB6B11 = {
+		fRef = 458F2D2F0833EB9600CB6B11;
+		isa = PBXTextBookmark;
+		name = "CPythonSession.h: 1";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	458F2D430833EC0300CB6B11 = {
+		fRef = 458F2D300833EB9600CB6B11;
+		isa = PBXTextBookmark;
+		name = "CPythonSession.m: 11";
+		rLen = 0;
+		rLoc = 1179;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	458F2DAB0833ED8F00CB6B11 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	458F2DAC0833ED8F00CB6B11 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	458F2DC20833EDB400CB6B11 = {
+		fRef = 458F2DAB0833ED8F00CB6B11;
+		isa = PBXTextBookmark;
+		name = "NSNull_PythonExtensions.h: 1";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 0;
+	};
+	458F2DC40833EDB400CB6B11 = {
+		fRef = 458F2DAC0833ED8F00CB6B11;
+		isa = PBXTextBookmark;
+		name = "- (PyObject *)asPythonObject";
+		rLen = 29;
+		rLoc = 1122;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	458F2E110833EEF600CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = object.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/object.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2E320833F04C00CB6B11 = {
+		fRef = 459680480832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSDictionary_PythonExtensions.m: 52";
+		rLen = 0;
+		rLoc = 2338;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 1129;
+	};
+	458F2E380833F04C00CB6B11 = {
+		fRef = 458F2E110833EEF600CB6B11;
+		isa = PBXTextBookmark;
+		name = "PyAPI_DATA(PyObject) _Py_NoneStruct; /* Don't use this directly */";
+		rLen = 67;
+		rLoc = 22892;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 22421;
+	};
+	458F2E970833F66B00CB6B11 = {
+		fRef = 45967FF50832BF890009C12F;
+		isa = PBXTextBookmark;
+		name = "main.c: 10";
+		rLen = 0;
+		rLoc = 1014;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	458F2E9F0833F66B00CB6B11 = {
+		fRef = 45967FF50832BF890009C12F;
+		isa = PBXTextBookmark;
+		name = "main.c: 10";
+		rLen = 0;
+		rLoc = 1014;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	458F2EA20833F66B00CB6B11 = {
+		fRef = 45967FED0832BF890009C12F;
+		isa = PBXTextBookmark;
+		name = "CMetadataImporter.h: 21";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 0;
+	};
+	458F2ECB0833F75C00CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ceval.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/ceval.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2ED20833F7B800CB6B11 = {
+		fRef = 45967FEE0832BF890009C12F;
+		isa = PBXTextBookmark;
+		name = "CMetadataImporter.m: 86";
+		rLen = 0;
+		rLoc = 3059;
+		rType = 0;
+		vrLen = 59;
+		vrLoc = 2147;
+	};
+	458F2EF30833F8D600CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = objimpl.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/objimpl.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2EFD0833F92A00CB6B11 = {
+		fRef = 458F2ECB0833F75C00CB6B11;
+		isa = PBXTextBookmark;
+		name = "ceval.h: 14";
+		rLen = 0;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 0;
+	};
+	458F2F190833F99C00CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDate.h;
+		path = /System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSDate.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2F1A0833F9B100CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSCalendarDate.h;
+		path = /System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSCalendarDate.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2F1E0833FA0200CB6B11 = {
+		fRef = 459680450832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSDate_PythonExtensions.h: 14";
+		rLen = 0;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 475;
+		vrLoc = 0;
+	};
+	458F2F1F0833FA0200CB6B11 = {
+		fRef = 458F2F190833F99C00CB6B11;
+		isa = PBXTextBookmark;
+		name = timeIntervalSince1970;
+		rLen = 21;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 256;
+	};
+	458F2F220833FA0200CB6B11 = {
+		fRef = 459680450832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSDate_PythonExtensions.h: 14";
+		rLen = 0;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 475;
+		vrLoc = 0;
+	};
+	458F2F6B0833FBE700CB6B11 = {
+		fRef = 4596804A0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSNumber_PythonExtensions.m: 17";
+		rLen = 0;
+		rLoc = 1267;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	458F2FB40833FCE300CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = dictobject.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/dictobject.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2FC80833FD8F00CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = floatobject.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/floatobject.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2FCD0833FDDF00CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSTimeZone.h;
+		path = /System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSTimeZone.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F2FD00833FE3D00CB6B11 = {
+		fRef = 458F2E110833EEF600CB6B11;
+		isa = PBXTextBookmark;
+		name = PyObject;
+		rLen = 8;
+		rLoc = 13108;
+		rType = 0;
+		vrLen = 1586;
+		vrLoc = 12411;
+	};
+	458F2FD20833FE3D00CB6B11 = {
+		fRef = 458F2FC80833FD8F00CB6B11;
+		isa = PBXTextBookmark;
+		name = PyFloat_AsDouble;
+		rLen = 16;
+		rLoc = 917;
+		rType = 0;
+		vrLen = 1331;
+		vrLoc = 214;
+	};
+	458F2FF50834001500CB6B11 = {
+		fRef = 458F2F1A0833F9B100CB6B11;
+		isa = PBXTextBookmark;
+		name = monthOfYear;
+		rLen = 11;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 1180;
+		vrLoc = 757;
+	};
+	458F303D083404ED00CB6B11 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = import.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/import.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	458F30430834051C00CB6B11 = {
+		fRef = 458F303D083404ED00CB6B11;
+		isa = PBXTextBookmark;
+		name = "PyAPI_FUNC(PyObject *) PyImport_Import(PyObject *name);";
+		rLen = 56;
+		rLoc = 628;
+		rType = 0;
+		vrLen = 1031;
+		vrLoc = 0;
+	};
+	458F3064083406A800CB6B11 = {
+		fRef = 458F2FB40833FCE300CB6B11;
+		isa = PBXTextBookmark;
+		name = PyDict_GetItem;
+		rLen = 14;
+		rLoc = 3428;
+		rType = 0;
+		vrLen = 1305;
+		vrLoc = 2895;
+	};
+	458F3066083406A800CB6B11 = {
+		fRef = 45F03B7C0833D5F500CF8BA6;
+		isa = PBXTextBookmark;
+		name = "CPythonObject.m: 24";
+		rLen = 0;
+		rLoc = 1346;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 218;
+	};
+	458F314C0834233D00CB6B11 = {
+		fRef = 458F2F1A0833F9B100CB6B11;
+		isa = PBXTextBookmark;
+		name = "@interface NSCalendarDate : NSDate {";
+		rLen = 37;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 1171;
+		vrLoc = 1060;
+	};
+	458F314D0834233D00CB6B11 = {
+		fRef = 458F2FCD0833FDDF00CB6B11;
+		isa = PBXTextBookmark;
+		name = "NSTimeZone.h: 24";
+		rLen = 0;
+		rLoc = 526;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 0;
+	};
+	458F31500834233D00CB6B11 = {
+		fRef = 459680460832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSDate_PythonExtensions.m: 37";
+		rLen = 0;
+		rLoc = 2209;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 210;
+	};
+	459279A308478862005D51F9 = {
+		fRef = 4596802C0832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "English: 2";
+		rLen = 0;
+		rLoc = 44;
+		rType = 0;
+		vrLen = 293;
+		vrLoc = 0;
+	};
+	459279A408478862005D51F9 = {
+		fRef = 4596802E0832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "English: 5";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 0;
+	};
+	459334CE0832C57700FF1A15 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 1792}}";
+			sepNavSelRange = "{4187, 18}";
+			sepNavVisRect = "{{0, 1414}, {876, 365}}";
+			sepNavWindowFrame = "{{15, 42}, {1281, 785}}";
+		};
+	};
+	45967FED0832BF890009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+			sepNavWindowFrame = "{{15, 448}, {750, 549}}";
+		};
+	};
+	45967FEE0832BF890009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 1414}}";
+			sepNavSelRange = "{3758, 0}";
+			sepNavVisRect = "{{0, 1035}, {876, 365}}";
+			sepNavWindowFrame = "{{15, 42}, {1281, 785}}";
+		};
+	};
+	45967FF30832BF890009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 742}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	45967FF50832BF890009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 3136}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	4596802C0832BFC50009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 597}}";
+			sepNavSelRange = "{44, 0}";
+			sepNavVisRect = "{{0, 0}, {920, 597}}";
+			sepNavWindowFrame = "{{15, 42}, {1281, 785}}";
+		};
+	};
+	4596802E0832BFC50009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 597}}";
+			sepNavSelRange = "{197, 0}";
+			sepNavVisRect = "{{0, 0}, {920, 597}}";
+		};
+	};
+	4596802F0832BFC50009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 1008}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 536}}";
+		};
+	};
+	459680300832BFC50009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 365}}";
+			sepNavSelRange = "{325, 183}";
+			sepNavVisRect = "{{0, 0}, {876, 365}}";
+		};
+	};
+	459680430832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	459680440832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 1148}}";
+			sepNavSelRange = "{2321, 0}";
+			sepNavVisRect = "{{0, 567}, {876, 365}}";
+		};
+	};
+	459680450832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+			sepNavWindowFrame = "{{15, 42}, {1281, 785}}";
+		};
+	};
+	459680460832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1196, 1106}}";
+			sepNavSelRange = "{1067, 0}";
+			sepNavVisRect = "{{0, 0}, {1196, 763}}";
+		};
+	};
+	459680470832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	459680480832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 1316}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	459680490832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	4596804A0832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	4596804B0832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	4596804C0832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 1050}}";
+			sepNavSelRange = "{2939, 0}";
+			sepNavVisRect = "{{0, 584}, {920, 466}}";
+		};
+	};
+	4596804D0832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	4596804E0832BFFF0009C12F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 868}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	45BC8E1608357EF500333919 = {
+		fRef = 459680430832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSArray_PythonExtensions.h: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1338;
+		vrLoc = 0;
+	};
+	45BC8E1A08357EF500333919 = {
+		fRef = 459680480832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSDictionary_PythonExtensions.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1811;
+		vrLoc = 0;
+	};
+	45BC8E1B08357EF500333919 = {
+		fRef = 459680490832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSNumber_PythonExtensions.h: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1345;
+		vrLoc = 0;
+	};
+	45BC8E1C08357EF500333919 = {
+		fRef = 4596804A0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSNumber_PythonExtensions.m: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1400;
+		vrLoc = 0;
+	};
+	45BC8E1D08357EF500333919 = {
+		fRef = 4596804B0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSObject_PythonExtensions.h: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 0;
+	};
+	45BC8E1F08357EF500333919 = {
+		fRef = 4596804D0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSString_PythonExtensions.h: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1345;
+		vrLoc = 0;
+	};
+	45BC8E2008357EF500333919 = {
+		fRef = 4596804E0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSString_PythonExtensions.m: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1774;
+		vrLoc = 0;
+	};
+	45BC8E2108357EF500333919 = {
+		fRef = 458F2DAB0833ED8F00CB6B11;
+		isa = PBXTextBookmark;
+		name = "NSNull_PythonExtensions.h: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1269;
+		vrLoc = 0;
+	};
+	45BC8E2208357EF500333919 = {
+		fRef = 458F2DAC0833ED8F00CB6B11;
+		isa = PBXTextBookmark;
+		name = "NSNull_PythonExtensions.m: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1178;
+		vrLoc = 0;
+	};
+	45BC8E2308357EF500333919 = {
+		fRef = 45F03B7B0833D5F500CF8BA6;
+		isa = PBXTextBookmark;
+		name = "CPythonObject.h: pythonObjectWithPyObject:";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1364;
+		vrLoc = 0;
+	};
+	45BC8E2508357EF500333919 = {
+		fRef = 458F2D2F0833EB9600CB6B11;
+		isa = PBXTextBookmark;
+		name = "CPythonSession.h: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1395;
+		vrLoc = 0;
+	};
+	45BC8E2608357EF500333919 = {
+		fRef = 458F2D300833EB9600CB6B11;
+		isa = PBXTextBookmark;
+		name = "CPythonSession.m: instance";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1429;
+		vrLoc = 0;
+	};
+	45BC8E3808357EF500333919 = {
+		fRef = 459680490832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSNumber_PythonExtensions.h: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1345;
+		vrLoc = 0;
+	};
+	45BC8E3A08357EF500333919 = {
+		fRef = 4596804B0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSObject_PythonExtensions.h: 19";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 0;
+	};
+	45BC8E4608357EF500333919 = {
+		fRef = 459680300832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "schema.xml: 17";
+		rLen = 0;
+		rLoc = 838;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 0;
+	};
+	45C9991D0846099800A9055D = {
+		fRef = 459680440832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSArray_PythonExtensions.m: arrayWithPythonObject:";
+		rLen = 0;
+		rLoc = 2465;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 1856;
+	};
+	45C999EC084615DA00A9055D = {
+		fRef = 45F03B7C0833D5F500CF8BA6;
+		isa = PBXTextBookmark;
+		name = "CPythonObject.m: 12";
+		rLen = 0;
+		rLoc = 507;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 1797;
+	};
+	45C999EE084615DA00A9055D = {
+		fRef = 45C999EF084615DA00A9055D;
+		isa = PBXTextBookmark;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 0;
+	};
+	45C999EF084615DA00A9055D = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = py_curses.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/py_curses.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	45C999F3084615DA00A9055D = {
+		fRef = 45C999F4084615DA00A9055D;
+		isa = PBXTextBookmark;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 0;
+	};
+	45C999F4084615DA00A9055D = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = py_curses.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/py_curses.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	45C99B33084615F300A9055D = {
+		fRef = 458F2EF30833F8D600CB6B11;
+		isa = PBXTextBookmark;
+		name = "#define PyObject_New(type, typeobj) \\";
+		rLen = 38;
+		rLoc = 6141;
+		rType = 0;
+		vrLen = 1070;
+		vrLoc = 5726;
+	};
+	45C99B470846166300A9055D = {
+		fRef = 458F2EF30833F8D600CB6B11;
+		isa = PBXTextBookmark;
+		name = "#define PyObject_New(type, typeobj) \\";
+		rLen = 38;
+		rLoc = 6141;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 5611;
+	};
+	45C99B54084616CC00A9055D = {
+		fRef = 4596804C0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSObject_PythonExtensions.m: 66";
+		rLen = 0;
+		rLoc = 2939;
+		rType = 0;
+		vrLen = 1272;
+		vrLoc = 1867;
+	};
+	45C99B55084616CC00A9055D = {
+		fRef = 45967FED0832BF890009C12F;
+		isa = PBXTextBookmark;
+		name = "CMetadataImporter.h: 10";
+		rLen = 0;
+		rLoc = 383;
+		rType = 0;
+		vrLen = 1683;
+		vrLoc = 0;
+	};
+	45D534BC083532990039C245 = {
+		fRef = 4596802F0832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "Info.plist: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1169;
+		vrLoc = 0;
+	};
+	45D534BD083532990039C245 = {
+		fRef = 4596802E0832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "English: 5";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 0;
+	};
+	45D7EFC90847D3890081FAA9 = {
+		fRef = 459680300832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "schema.xml: 7";
+		rLen = 183;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 0;
+	};
+	45D7EFCB0847D3890081FAA9 = {
+		fRef = 459680300832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "schema.xml: 7";
+		rLen = 183;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 0;
+	};
+	45D7EFCF0847D39D0081FAA9 = {
+		fRef = 459680300832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "schema.xml: 7";
+		rLen = 183;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 0;
+	};
+	45D7EFE10847D4120081FAA9 = {
+		fRef = 459334CE0832C57700FF1A15;
+		isa = PBXTextBookmark;
+		name = kMDItemTextContent;
+		rLen = 18;
+		rLoc = 4187;
+		rType = 0;
+		vrLen = 753;
+		vrLoc = 3691;
+	};
+	45D7EFE20847D45B0081FAA9 = {
+		fRef = 459334CE0832C57700FF1A15;
+		isa = PBXTextBookmark;
+		name = kMDItemTextContent;
+		rLen = 18;
+		rLoc = 4187;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 3780;
+	};
+	45D7EFF00847D4640081FAA9 = {
+		fRef = 459334CE0832C57700FF1A15;
+		isa = PBXTextBookmark;
+		name = kMDItemTextContent;
+		rLen = 18;
+		rLoc = 4187;
+		rType = 0;
+		vrLen = 753;
+		vrLoc = 3691;
+	};
+	45D7EFF10847D4640081FAA9 = {
+		fRef = 459334CE0832C57700FF1A15;
+		isa = PBXTextBookmark;
+		name = kMDItemTextContent;
+		rLen = 18;
+		rLoc = 4187;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 3780;
+	};
+	45DD4D550838FDCF00DFF6AF = {
+		fRef = 459680460832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSDate_PythonExtensions.m: 27";
+		rLen = 0;
+		rLoc = 1067;
+		rType = 0;
+		vrLen = 1599;
+		vrLoc = 166;
+	};
+	45EB68AD08456F72003CD158 = {
+		fRef = 4596802F0832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "Info.plist: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1169;
+		vrLoc = 0;
+	};
+	45F03AB40833CF6700CF8BA6 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSString.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	45F03ABF0833CFE400CF8BA6 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = unicodeobject.h;
+		path = /System/Library/Frameworks/Python.framework/Versions/2.3/include/python2.3/unicodeobject.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	45F03AD20833D0C400CF8BA6 = {
+		fRef = 4596802C0832BFC50009C12F;
+		isa = PBXTextBookmark;
+		name = "English: 7";
+		rLen = 0;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 0;
+	};
+	45F03AD40833D0C400CF8BA6 = {
+		fRef = 4596804C0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "(PyObject_TypeCheck(inPythonObject, &PyString_Type) || PyObject_TypeCheck(inPythonObject, &PyUnicode_Type))";
+		rLen = 107;
+		rLoc = 1683;
+		rType = 0;
+		vrLen = 1196;
+		vrLoc = 3;
+	};
+	45F03B1D0833D2F300CF8BA6 = {
+		fRef = 459334CE0832C57700FF1A15;
+		isa = PBXTextBookmark;
+		name = "importer.py: 39";
+		rLen = 0;
+		rLoc = 3511;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 561;
+	};
+	45F03B4D0833D4A400CF8BA6 = {
+		fRef = 45F03ABF0833CFE400CF8BA6;
+		isa = PBXTextBookmark;
+		name = PyUnicodeUCS2_FromUnicode;
+		rLen = 25;
+		rLoc = 6672;
+		rType = 0;
+		vrLen = 1785;
+		vrLoc = 5748;
+	};
+	45F03B510833D4A400CF8BA6 = {
+		fRef = 4596804D0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSString_PythonExtensions.h: 10";
+		rLen = 0;
+		rLoc = 1069;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	45F03B6E0833D54800CF8BA6 = {
+		fRef = 45967FF30832BF890009C12F;
+		isa = PBXTextBookmark;
+		name = "GetMetadataForFile.m: 8";
+		rLen = 0;
+		rLoc = 1258;
+		rType = 0;
+		vrLen = 671;
+		vrLoc = 0;
+	};
+	45F03B770833D5B700CF8BA6 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CFString.h;
+		path = /System/Library/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	45F03B7B0833D5F500CF8BA6 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 714}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 714}}";
+		};
+	};
+	45F03B7C0833D5F500CF8BA6 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 1050}}";
+			sepNavSelRange = "{507, 0}";
+			sepNavVisRect = "{{0, 584}, {920, 466}}";
+		};
+	};
+	45F03B8C0833D9A800CF8BA6 = {
+		fRef = 45F03B770833D5B700CF8BA6;
+		isa = PBXTextBookmark;
+		name = CFData;
+		rLen = 6;
+		rLoc = 15547;
+		rType = 0;
+		vrLen = 1494;
+		vrLoc = 14520;
+	};
+	45F03B8D0833D9A800CF8BA6 = {
+		fRef = 45F03AB40833CF6700CF8BA6;
+		isa = PBXTextBookmark;
+		name = CFStringEncoding;
+		rLen = 16;
+		rLoc = 1249;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 1120;
+	};
+	45F03B930833D9A800CF8BA6 = {
+		fRef = 4596804E0832BFFF0009C12F;
+		isa = PBXTextBookmark;
+		name = "NSString_PythonExtensions.m: 26";
+		rLen = 0;
+		rLoc = 1642;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 565;
+	};
+	45F03B940833D9A800CF8BA6 = {
+		fRef = 45F03B7B0833D5F500CF8BA6;
+		isa = PBXTextBookmark;
+		name = "CPythonObject.h: 1";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	45F9531B08319C400073B07B = {
+		activeArgIndex = 1;
+		activeArgIndices = (
+			NO,
+			YES,
+		);
+		argumentStrings = (
+			"-d 2 \"/Users/schwa/Documents/WorkingDirectories/toxic/externals/public/Freeware/Python\\ Metadata\\ Importer/TestData/Test.py\"",
+			"-d 2 \"/Volumes/Home/Users/Shared/Stuff/Stuff/eBooks/diveintopython-5.4/py/openanything.py\"",
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		launchableReference = 45F9531C08319C400073B07B;
+		libgmallocEnabled = 0;
+		name = Executable;
+		savedGlobals = {
+		};
+		shlibInfoDictList_v2 = (
+			{
+				level = 0;
+				path = /usr/lib/system/libmathCommon.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libSystem.B.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libz.1.2.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libicucore.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libauto.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libobjc.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Security.framework/Versions/A/Security;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CFNetwork.framework/Versions/A/CFNetwork;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/WebServicesCore.framework/Versions/A/WebServicesCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libbsm.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcrypto.0.9.7.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreText.framework/Versions/A/CoreText;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcups.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/FindByContent.framework/Versions/A/FindByContent;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libRaw.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libmx.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/ImageIO;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libiconv.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libxml2.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdimport;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Library/Spotlight/SourceCode.mdimporter/Contents/MacOS/SourceCode;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Python.framework/Versions/2.3/Python;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Volumes/Home/Users/Shared/Library/Developer/Products/Python Metadata Importer.mdimporter/Contents/MacOS/Python Metadata Importer";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Developer/Applications/Xcode.app/Contents/PlugIns/GDBMIDebugging.xcplugin/Contents/Resources/PBGDBIntrospectionSupport.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/System/Library/Frameworks/Python.framework/Versions/2.3/lib/python2.3/lib-dynload/parser.so";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AudioUnit.framework/Versions/A/AudioUnit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libsqlite3.0.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreData.framework/Versions/A/CoreData;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Spotlight/RichText.mdimporter/Contents/MacOS/RichText;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/System/Library/Frameworks/Python.framework/Versions/2.3/lib/python2.3/lib-dynload/time.so";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/System/Library/Frameworks/Python.framework/Versions/2.3/lib/python2.3/lib-dynload/datetime.so";
+				whenToLoad = 0;
+			},
+		);
+		sourceDirectories = (
+		);
+	};
+	45F9531C08319C400073B07B = {
+		isa = PBXFileReference;
+		lastKnownFileType = "compiled.mach-o.executable";
+		name = mdimport;
+		path = /usr/bin/mdimport;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	8D57630D048677EA00EA77CD = {
+		activeExec = 0;
+	};
+}

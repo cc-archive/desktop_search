@@ -1,0 +1,6 @@
+"org_creativecommons_license" = "Creative Commons License";
+"org_creativecommons_verified" = "License Verified";
+
+"org_creativecommons_license.Description" = "The name of the Creative Commons license.";
+"org_creativecommons_verified.Description" = "Whether or not the license can be verified.";
+

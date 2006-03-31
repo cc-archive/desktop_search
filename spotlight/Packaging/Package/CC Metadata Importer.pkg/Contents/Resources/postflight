@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/mdimport -r /Library/Spotlight/Creative\ Commons\ Metadata\ Importer.mdimporter

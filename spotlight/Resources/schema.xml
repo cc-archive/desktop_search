@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schema version="1.0" xmlns="http://www.apple.com/metadata"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.apple.com/metadata file:///System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Resources/MetadataSchema.xsd">
+
+	<attributes>
+		<attribute name="org_creativecommons_license" multivalued="true" type="CFString"/>
+		<attribute name="org_creativecommons_verified" multivalued="false" type="CFString"/>
+	</attributes>
+
+	<types>
+		<type name="public.mp3">
+			<allattrs>org_creativecommons_license org_creativecommons_verified kMDItemComposer kMDItemMusicalGenre kMDItemRecordingYear kMDItemTitle kMDItemAuthors</allattrs>
+			<displayattrs>org_creativecommons_license org_creativecommons_verified kMDItemComposer kMDItemMusicalGenre kMDItemRecordingYear kMDItemTitle kMDItemAuthors</displayattrs>
+		</type>
+	</types>
+</schema>

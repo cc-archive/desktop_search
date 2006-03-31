@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CompatibleVersion</key>
+	<integer>0</integer>
+	<key>RawQuery</key>
+	<string>(org_creativecommons_license = '*commons.org*'cd) &amp;&amp; (kMDItemContentTypeTree = 'public.audio') &amp;&amp; (kMDItemContentType != com.apple.mail.emlx) &amp;&amp; (kMDItemContentType != public.vcard)</string>
+	<key>SearchCriteria</key>
+	<dict>
+		<key>CurrentFolderPath</key>
+		<array>
+			<string>/Users/nathan</string>
+		</array>
+		<key>FXCriteriaSlices</key>
+		<array>
+			<dict>
+				<key>FXAttribute</key>
+				<string>org_creativecommons_license</string>
+				<key>FXSliceKind</key>
+				<string>Othr</string>
+				<key>Operator</key>
+				<string>S:**</string>
+				<key>Value</key>
+				<string>commons.org</string>
+			</dict>
+			<dict>
+				<key>FXSliceKind</key>
+				<string>Skin</string>
+				<key>Value</key>
+				<string>KImu</string>
+			</dict>
+		</array>
+		<key>FXScope</key>
+		<integer>1396925814</integer>
+		<key>FXScopeArrayOfPaths</key>
+		<array>
+			<string>kMDQueryScopeComputer</string>
+		</array>
+	</dict>
+	<key>Version</key>
+	<string>10.4</string>
+	<key>ViewOptions</key>
+	<dict>
+		<key>SidebarWidth</key>
+		<integer>207</integer>
+		<key>ToolbarVisible</key>
+		<true/>
+		<key>ViewHeight</key>
+		<integer>513</integer>
+		<key>ViewStyle</key>
+		<string>qrsb</string>
+		<key>WindowBounds</key>
+		<dict>
+			<key>bottom</key>
+			<integer>696</integer>
+			<key>left</key>
+			<integer>252</integer>
+			<key>right</key>
+			<integer>1218</integer>
+			<key>top</key>
+			<integer>183</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

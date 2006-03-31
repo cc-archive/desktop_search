@@ -1,0 +1,584 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 39;
+	objects = {
+		014CEA3F0018CDD111CA2923 = {
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OPTIMIZATION_CFLAGS = "-O0";
+			};
+			isa = PBXBuildStyle;
+			name = Development;
+		};
+		014CEA400018CDD111CA2923 = {
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+			};
+			isa = PBXBuildStyle;
+			name = Deployment;
+		};
+//010
+//011
+//012
+//013
+//014
+//080
+//081
+//082
+//083
+//084
+		089C1669FE841209C02AAC07 = {
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.4;
+				SDKROOT = /Developer/SDKs/MacOSX10.4.0.sdk;
+			};
+			buildStyles = (
+				014CEA3F0018CDD111CA2923,
+				014CEA400018CDD111CA2923,
+			);
+			hasScannedForEncodings = 1;
+			isa = PBXProject;
+			mainGroup = 089C166AFE841209C02AAC07;
+			projectDirPath = "";
+			targets = (
+				8D57630D048677EA00EA77CD,
+			);
+		};
+		089C166AFE841209C02AAC07 = {
+			children = (
+				45967FEC0832BF890009C12F,
+				4596802A0832BFC50009C12F,
+				089C1671FE841209C02AAC07,
+				19C28FB6FE9D52B211CA2CBB,
+			);
+			isa = PBXGroup;
+			name = "Python Metadata Importer";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		089C1671FE841209C02AAC07 = {
+			children = (
+				D816C2860850EFD600C19C71,
+				45796126083162D100A923A6,
+				45796122083162B900A923A6,
+				C86B05260671AA6E00DD9006,
+				0AA1909FFE8422F4C02AAC07,
+			);
+			isa = PBXGroup;
+			name = "External Frameworks and Libraries";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//080
+//081
+//082
+//083
+//084
+//0A0
+//0A1
+//0A2
+//0A3
+//0A4
+		0AA1909FFE8422F4C02AAC07 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreFoundation.framework;
+			path = /System/Library/Frameworks/CoreFoundation.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+//0A0
+//0A1
+//0A2
+//0A3
+//0A4
+//190
+//191
+//192
+//193
+//194
+		19C28FB6FE9D52B211CA2CBB = {
+			children = (
+				8D576316048677EA00EA77CD,
+			);
+			isa = PBXGroup;
+			name = Products;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//190
+//191
+//192
+//193
+//194
+//450
+//451
+//452
+//453
+//454
+		45796122083162B900A923A6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Python.framework;
+			path = /System/Library/Frameworks/Python.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		45796123083162B900A923A6 = {
+			fileRef = 45796122083162B900A923A6;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		45796126083162D100A923A6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = /System/Library/Frameworks/Foundation.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		45796127083162D100A923A6 = {
+			fileRef = 45796126083162D100A923A6;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		45967FEC0832BF890009C12F = {
+			children = (
+				D8487FA40850FC1F000A446D,
+				D8487F9A0850FB97000A446D,
+				D8487F8A0850FA55000A446D,
+				D8487F530850F975000A446D,
+				D8487F470850F90B000A446D,
+				45967FF50832BF890009C12F,
+				45967FF30832BF890009C12F,
+				D8975BCB084FD04C001B1FD9,
+				D816C2060850D07600C19C71,
+			);
+			isa = PBXGroup;
+			path = Source;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		45967FF30832BF890009C12F = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = GetMetadataForFile.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		45967FF50832BF890009C12F = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = main.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		459680070832BF890009C12F = {
+			fileRef = 45967FF30832BF890009C12F;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		459680090832BF890009C12F = {
+			fileRef = 45967FF50832BF890009C12F;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		4596802A0832BFC50009C12F = {
+			children = (
+				D816C20B0850D10700C19C71,
+				4596802B0832BFC50009C12F,
+				4596802D0832BFC50009C12F,
+				4596802F0832BFC50009C12F,
+				459680300832BFC50009C12F,
+			);
+			isa = PBXGroup;
+			path = Resources;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		4596802B0832BFC50009C12F = {
+			children = (
+				4596802C0832BFC50009C12F,
+			);
+			isa = PBXVariantGroup;
+			name = InfoPlist.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		4596802C0832BFC50009C12F = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/InfoPlist.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		4596802D0832BFC50009C12F = {
+			children = (
+				4596802E0832BFC50009C12F,
+			);
+			isa = PBXVariantGroup;
+			name = schema.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		4596802E0832BFC50009C12F = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/schema.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		4596802F0832BFC50009C12F = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.xml;
+			path = Info.plist;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		459680300832BFC50009C12F = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.xml;
+			path = schema.xml;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		459680310832BFC50009C12F = {
+			fileRef = 4596802B0832BFC50009C12F;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		459680320832BFC50009C12F = {
+			fileRef = 4596802D0832BFC50009C12F;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		459680340832BFC50009C12F = {
+			fileRef = 459680300832BFC50009C12F;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+//450
+//451
+//452
+//453
+//454
+//8D0
+//8D1
+//8D2
+//8D3
+//8D4
+		8D57630D048677EA00EA77CD = {
+			buildPhases = (
+				D8487FB10850FD3C000A446D,
+				8D57630E048677EA00EA77CD,
+				8D57630F048677EA00EA77CD,
+				8D576311048677EA00EA77CD,
+				8D576313048677EA00EA77CD,
+				8D576315048677EA00EA77CD,
+				D8D75B6C0857B4FF002B74B6,
+			);
+			buildRules = (
+			);
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = /System/Library/Frameworks;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_FOUR_CHARACTER_CONSTANTS = NO;
+				GCC_WARN_UNKNOWN_PRAGMAS = NO;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = /Library/Spotlight;
+				LIBRARY_SEARCH_PATHS = "";
+				LIBRARY_STYLE = Bundle;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				OTHER_REZFLAGS = "";
+				PREBINDING = NO;
+				PRODUCT_NAME = "Creative Commons Metadata Importer";
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas";
+				WRAPPER_EXTENSION = mdimporter;
+				ZERO_LINK = NO;
+			};
+			dependencies = (
+			);
+			isa = PBXNativeTarget;
+			name = "CC Metadata Importer";
+			productInstallPath = /Library/Spotlight;
+			productName = "Python Metadata Importer";
+			productReference = 8D576316048677EA00EA77CD;
+			productType = "com.apple.product-type.bundle";
+		};
+		8D57630E048677EA00EA77CD = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXHeadersBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D57630F048677EA00EA77CD = {
+			buildActionMask = 2147483647;
+			files = (
+				459680310832BFC50009C12F,
+				459680320832BFC50009C12F,
+				459680340832BFC50009C12F,
+				D8975BCC084FD04C001B1FD9,
+				D816C21B0850D10700C19C71,
+				D8487F500850F90B000A446D,
+				D8487F870850F975000A446D,
+				D8487F950850FA55000A446D,
+				D8487FA30850FB97000A446D,
+				D8487FB00850FC1F000A446D,
+			);
+			isa = PBXResourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D576311048677EA00EA77CD = {
+			buildActionMask = 2147483647;
+			files = (
+				459680070832BF890009C12F,
+				459680090832BF890009C12F,
+			);
+			isa = PBXSourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D576313048677EA00EA77CD = {
+			buildActionMask = 2147483647;
+			files = (
+				8D576314048677EA00EA77CD,
+				C86B05270671AA6E00DD9006,
+				45796123083162B900A923A6,
+				45796127083162D100A923A6,
+				D816C2870850EFD600C19C71,
+			);
+			isa = PBXFrameworksBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D576314048677EA00EA77CD = {
+			fileRef = 0AA1909FFE8422F4C02AAC07;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D576315048677EA00EA77CD = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXRezBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D576316048677EA00EA77CD = {
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = "Creative Commons Metadata Importer.mdimporter";
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+//8D0
+//8D1
+//8D2
+//8D3
+//8D4
+//C80
+//C81
+//C82
+//C83
+//C84
+		C86B05260671AA6E00DD9006 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreServices.framework;
+			path = /System/Library/Frameworks/CoreServices.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		C86B05270671AA6E00DD9006 = {
+			fileRef = C86B05260671AA6E00DD9006;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+//C80
+//C81
+//C82
+//C83
+//C84
+//D80
+//D81
+//D82
+//D83
+//D84
+		D816C2060850D07600C19C71 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.script.python;
+			path = setup.py;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D816C20B0850D10700C19C71 = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			name = PyMetadataImport.plugin;
+			path = Source/dist/PyMetadataImport.plugin;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		D816C21B0850D10700C19C71 = {
+			fileRef = D816C20B0850D10700C19C71;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D816C2860850EFD600C19C71 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AppKit.framework;
+			path = /System/Library/Frameworks/AppKit.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		D816C2870850EFD600C19C71 = {
+			fileRef = D816C2860850EFD600C19C71;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8487F470850F90B000A446D = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			path = eyeD3;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8487F500850F90B000A446D = {
+			fileRef = D8487F470850F90B000A446D;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8487F530850F975000A446D = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			path = rdflib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8487F870850F975000A446D = {
+			fileRef = D8487F530850F975000A446D;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8487F8A0850FA55000A446D = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			path = cctagutils;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8487F950850FA55000A446D = {
+			fileRef = D8487F8A0850FA55000A446D;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8487F9A0850FB97000A446D = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			path = ccrdf;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8487FA30850FB97000A446D = {
+			fileRef = D8487F9A0850FB97000A446D;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8487FA40850FC1F000A446D = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			path = tagger;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8487FB00850FC1F000A446D = {
+			fileRef = D8487FA40850FC1F000A446D;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8487FB10850FD3C000A446D = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			isa = PBXShellScriptBuildPhase;
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cd Source\npython setup.py py2app 2> /dev/null";
+		};
+		D8975BCB084FD04C001B1FD9 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.script.python;
+			path = PyMetadataImport.py;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8975BCC084FD04C001B1FD9 = {
+			fileRef = D8975BCB084FD04C001B1FD9;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8D75B6C0857B4FF002B74B6 = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			isa = PBXShellScriptBuildPhase;
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cp -R build/*.mdimporter Packaging/Installer/Output\n";
+		};
+	};
+	rootObject = 089C1669FE841209C02AAC07;
+}
